@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\App16\bin\Debug\netcoreapp3.1\App16.exe
+C:\Users\sergi\source\repos\App16\bin\Debug\netcoreapp3.1\App16.deps.json
+C:\Users\sergi\source\repos\App16\bin\Debug\netcoreapp3.1\App16.runtimeconfig.json
+C:\Users\sergi\source\repos\App16\bin\Debug\netcoreapp3.1\App16.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App16\bin\Debug\netcoreapp3.1\App16.dll
+C:\Users\sergi\source\repos\App16\bin\Debug\netcoreapp3.1\App16.pdb
+C:\Users\sergi\source\repos\App16\obj\Debug\netcoreapp3.1\App16.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\App16\obj\Debug\netcoreapp3.1\App16.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App16\obj\Debug\netcoreapp3.1\App16.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App16\obj\Debug\netcoreapp3.1\App16.dll
+C:\Users\sergi\source\repos\App16\obj\Debug\netcoreapp3.1\App16.pdb
